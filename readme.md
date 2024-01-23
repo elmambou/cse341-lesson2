@@ -1,2 +1,1 @@
-Lesson 1: Introducing our tech stack.
-Getting started with our first APIs
+Lesson 2: REST Clients, GET Requests, Node Architecture
